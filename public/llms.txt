@@ -1,0 +1,107 @@
+# Frogi_toyz — Generative Engine Optimization Map
+
+> A business focused on sweatshirts, likely a clothing brand or online store selling sweatshirts as its core product.
+
+---
+
+## Pages
+
+### בית
+https://frogi-toyz-7351bf97.zappy5.app
+חנות הסוויטשירטים המובילה ללבוש ספורטיבי ואקטיבי. עיצובים נוחים, איכותיים ומושלמים לכל פעילות. היכנסו עכשיו וגלו את הקולקציה החדשה!
+
+### תכונות
+https://frogi-toyz-7351bf97.zappy5.app/features
+גלו את התכונות הייחודיות של בגדי הספורט שלנו: בדים מנדפי זיעה, תפרים שטוחים לנוחות מקסימלית ועיצובים שמתאימים לכל תנועה. התחילו להזיע בסטייל!
+
+### אודות
+https://frogi-toyz-7351bf97.zappy5.app/about
+ב-Frogi_toyz אנחנו מאמינים שסוויטשירט זה לא רק בגד – זו הצהרה. הכירו את המותג שמחבר בין נוחות, סטייל ותשוקה לספורט. הצטרפו למהפכה!
+
+### צור קשר
+https://frogi-toyz-7351bf97.zappy5.app/contact
+יש שאלות על מידות, משלוחים או המלצות סטיילינג? צוות המומחים שלנו מחכה לשמוע מכם. צרו קשר עוד היום ונחזור אליכם בזריזות!
+
+### Products
+https://frogi-toyz-7351bf97.zappy5.app/products
+המוצרים שלנו - Frogi_toyz
+
+### Cart
+https://frogi-toyz-7351bf97.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://frogi-toyz-7351bf97.zappy5.app/checkout
+תשלום
+
+### Login
+https://frogi-toyz-7351bf97.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://frogi-toyz-7351bf97.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://frogi-toyz-7351bf97.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://frogi-toyz-7351bf97.zappy5.app/product/:slug
+פרטי המוצר - Frogi_toyz
+
+### Category
+https://frogi-toyz-7351bf97.zappy5.app/category/:slug
+מוצרים - Frogi_toyz
+
+### תודה על פנייתך
+https://frogi-toyz-7351bf97.zappy5.app/thank-you
+Frogi_toyz - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://frogi-toyz-7351bf97.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://frogi-toyz-7351bf97.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://frogi-toyz-7351bf97.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Frogi_toyz
+A business focused on sweatshirts, likely a clothing brand or online store selling sweatshirts as its core product.
+
+## Services/Products
+- מכירת סווקשים
+
+## Target Audience
+- אתלטים עירוניים
+- חובבי כושר
+- קונים טכנולוגיים
+
+## Industry
+Sportswear / Activewear
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://frogi-toyz-7351bf97.zappy5.app/sitemap.xml
+- Robots: https://frogi-toyz-7351bf97.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://frogi-toyz-7351bf97.zappy5.app/llms-full.txt
+- Products (JSON): https://frogi-toyz-7351bf97.zappy5.app/products.json
+- Products (Google Merchant RSS): https://frogi-toyz-7351bf97.zappy5.app/product-feed.xml
